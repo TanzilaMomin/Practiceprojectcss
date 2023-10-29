@@ -1,0 +1,113 @@
+.main{
+    height: 500px;
+    width: 600px;
+    background-color: violet;
+    position: relative;
+}
+body{
+    text-align: center;
+    margin-left: 450px;
+    padding-top: 100px;
+}
+.parent{
+    height: 450px;
+    width: 550px;
+    background-color: aqua;
+    position: absolute;
+    bottom: 25px;
+    left:25px ;
+}
+.child1{
+    height: 400px;
+    width: 500px;
+    background-color: yellow;
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+}
+.child2{
+    height: 350px;
+    width: 450px;
+    background-color: greenyellow;
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+}
+.child3{
+    height: 300px;
+    width:400px ;
+    background-color: palevioletred;
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+}
+.child4{
+    height: 250px;
+    width: 350px;
+    background-color: blueviolet;
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+}
+.child5{
+    height: 200px;
+    width: 300px;
+    background-color: greenyellow;
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+}
+.child6{
+    height: 150px;
+    width: 250px;
+    background-color: rgba(205, 12, 12, 0.837);
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+}
+.child7{
+    height: 100px;
+    width: 200px;
+    background-color: lightblue;
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+}
+.child8{
+    height: 50px;
+    width:150px;
+    background-color: white;
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+}
+.main:hover{
+    background-color: black;
+}
+.parent:hover{
+    background-color: black;
+}
+.child1:hover{
+    background-color: black;
+}
+.child2:hover{
+    background-color: black;
+}
+.child3:hover{
+    background-color: black;
+}
+.child4:hover{
+    background-color: black;
+}
+.child5:hover{
+    background-color: black;
+}
+.child6:hover{
+    background-color: black;
+}
+.child7:hover{
+    background-color: black;
+}
+.child8:hover{
+    background-color: black;
+}
